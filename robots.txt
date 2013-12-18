@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://chrisportela.github.io/sitemap.xml 
