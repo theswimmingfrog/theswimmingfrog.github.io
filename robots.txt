@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://chrisportela.github.io/sitemap.xml 
+Sitemap: http://theswimmingfrog.github.io/sitemap.xml 
